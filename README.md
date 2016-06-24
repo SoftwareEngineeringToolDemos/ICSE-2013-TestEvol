@@ -13,11 +13,10 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for TestEvol you will find:
 * :white_check_mark: [Source Code](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-TestEvol/tree/master/icse2013demo-testevol/code) (available)
-* :white_check_mark: [The originaltool](https://github.com/alexorso/TestEvol.git) (available)
 * :white_check_mark: [A slightly modified version of the tool](https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-TestEvol/blob/master/testevol.war)
-* :white_check_mark: [Virtual machine containing tool](https://drive.google.com/open?id=0B0b70eAJZOJpbEg1QU9pWHFmTUU)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 Note :For the machine, username: root, password: password1. 
-      Also make sure that the virtuam machine has access to the internet.
+      Also make sure that the virtual machine has access to the internet.
 
 This repository was constructed by [Vrushti Shah] (https://github.com/vrushti1991) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
